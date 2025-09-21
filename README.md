@@ -7,7 +7,7 @@ This repository contains additional materials for the Liesel session at the retr
 <img src="https://raw.githubusercontent.com/liesel-devs/liesel/main/misc/logo/logo-dark.png#gh-dark-mode-only" alt="logo" align="right" width="185">
 
 
-## Resources
+### Resources
 
 - [Paper on arXiv](https://arxiv.org/abs/2209.10975)
 - [Liesel & Goose repo](https://github.com/liesel-devs/liesel)
