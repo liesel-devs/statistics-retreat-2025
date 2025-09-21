@@ -84,7 +84,7 @@ Now install the required packages via:
 
 ```
 pip install git+https://github.com/liesel-devs/liesel.git
-pip install ipykernel jupyter
+pip install ipykernel jupyter plotnine
 ```
 
 #### Launch Jupyter Notebook
@@ -157,7 +157,7 @@ Now install the required packages:
 
 ```
 pip install git+https://github.com/liesel-devs/liesel.git
-pip install ipykernel jupyter
+pip install ipykernel jupyter plotnine
 ```
 
 
